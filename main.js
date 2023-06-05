@@ -85,7 +85,6 @@ const checkJugada = () => {
             document.getElementById('msg').classList.add('bg-green-500');
             document.querySelector('span').innerText = `Felicidades ${tablero[jugada[0]]} Ganaste`
             someWin = true;
-            reset()
         }
     })
     if(someWin){
