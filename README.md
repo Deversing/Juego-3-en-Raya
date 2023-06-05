@@ -9,4 +9,6 @@
 
 ##### Tecnologias
 
-![Javascript|10](/img/js.png) ![Javascript|10](/img/html.png) ![Javascript|10](/img/tw.png)
+<img src="img/js.png" width="30px"/>
+<img src="img/html.png" width="30px"/>
+<img src="img/tw.png" width="30px"/>
