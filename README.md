@@ -7,6 +7,6 @@
 -Eliminacion de Evento Click
 ` item.removeEventListener('click', eventClick) `
 
-##### Tecnologoas
+##### Tecnologias
 
-![Javascript|50](/img/js.png) ![Javascript|50](/img/html.png) ![Javascript|50](/img/tw.png)
+![Javascript|10](/img/js.png) ![Javascript|10](/img/html.png) ![Javascript|10](/img/tw.png)
